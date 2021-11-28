@@ -1,0 +1,20 @@
+{
+  "group": "spab",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SRS",
+    "SRS"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "R": {
+      "item": "spab:red_planks"
+    }
+  },
+  "result": {
+    "item": "spab:red_fence_gate",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "spab:blocks/spabrecipestation",
+    "up": "spab:blocks/spabrecipestation",
+    "north": "spab:blocks/spabrecipestationsss",
+    "east": "spab:blocks/spabrecipestationsss",
+    "south": "spab:blocks/spabrecipestationsss",
+    "west": "spab:blocks/spabrecipestationsss",
+    "particle": "spab:blocks/spabrecipestation"
+  }
+}

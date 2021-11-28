@@ -1,0 +1,16 @@
+{
+  "group": "spab",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "spab:red_planks"
+    }
+  },
+  "result": {
+    "item": "spab:red_pressure_plate",
+    "count": 1
+  }
+}

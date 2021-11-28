@@ -1,0 +1,13 @@
+{
+  "group": "spab",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:red_log"
+    }
+  ],
+  "result": {
+    "item": "spab:red_planks",
+    "count": 4
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "spab:block/red_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "spab:block/red_wood"
+    },
+    "axis=z": {
+      "model": "spab:block/red_wood",
+      "x": 90
+    }
+  }
+}

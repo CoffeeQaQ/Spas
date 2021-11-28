@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "spab:blocks/dragonore",
+    "up": "spab:blocks/dragonore",
+    "north": "spab:blocks/dragonore",
+    "east": "spab:blocks/dragonore",
+    "south": "spab:blocks/dragonore",
+    "west": "spab:blocks/dragonore",
+    "particle": "spab:blocks/dragonore"
+  }
+}

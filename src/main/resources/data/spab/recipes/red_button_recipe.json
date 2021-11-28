@@ -1,0 +1,13 @@
+{
+  "group": "spab",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "spab:red_planks"
+    }
+  ],
+  "result": {
+    "item": "spab:red_button",
+    "count": 1
+  }
+}

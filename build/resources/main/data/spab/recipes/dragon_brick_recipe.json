@@ -1,0 +1,36 @@
+{
+  "group": "spab",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "spab:dragon_debris"
+    },
+    "1": {
+      "item": "spab:dragon_debris"
+    },
+    "2": {
+      "item": "spab:dragon_debris"
+    },
+    "4": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "6": {
+      "item": "spab:dragon_debris"
+    },
+    "7": {
+      "item": "spab:dragon_debris"
+    },
+    "8": {
+      "item": "spab:dragon_debris"
+    }
+  },
+  "result": {
+    "item": "spab:dragon_brick",
+    "count": 2
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "spab:custom/rainbowgun",
+  "textures": {
+    "1": "spab:blocks/texture",
+    "3": "spab:blocks/texture",
+    "5": "spab:blocks/texture2",
+    "7": "spab:blocks/texture3",
+    "particle": "spab:items/rainbowgun"
+  }
+}

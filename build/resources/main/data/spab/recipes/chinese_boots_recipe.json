@@ -1,0 +1,26 @@
+{
+  "group": "spab",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "spab:dragon_brick"
+    },
+    "2": {
+      "item": "spab:dragon_brick"
+    },
+    "3": {
+      "item": "spab:dragon_brick"
+    },
+    "5": {
+      "item": "spab:dragon_brick"
+    }
+  },
+  "result": {
+    "item": "spab:chinese_boots",
+    "count": 1
+  }
+}

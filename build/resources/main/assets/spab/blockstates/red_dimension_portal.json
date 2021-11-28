@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "spab:block/red_dimension_portal_ew"
+    },
+    "axis=x": {
+      "model": "spab:block/red_dimension_portal_ns"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "spab:blocks/red_log_side",
+    "particle": "spab:blocks/red_log_side"
+  }
+}

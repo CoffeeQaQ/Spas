@@ -1,0 +1,17 @@
+{
+  "group": "spab",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "spab:dragon_brick"
+    }
+  },
+  "result": {
+    "item": "spab:chinese_helmet",
+    "count": 1
+  }
+}

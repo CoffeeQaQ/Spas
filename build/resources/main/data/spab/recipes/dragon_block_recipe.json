@@ -1,0 +1,18 @@
+{
+  "group": "spab",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "spab:dragon_brick"
+    }
+  },
+  "result": {
+    "item": "spab:dragon_block",
+    "count": 1
+  }
+}

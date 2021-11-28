@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "spab:blocks/red_log_top",
+    "up": "spab:blocks/red_log_top",
+    "north": "spab:blocks/red_log_side",
+    "east": "spab:blocks/red_log_side",
+    "south": "spab:blocks/red_log_side",
+    "west": "spab:blocks/red_log_side",
+    "particle": "spab:blocks/red_log_top"
+  }
+}

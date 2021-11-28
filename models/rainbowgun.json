@@ -1,0 +1,95 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "block/texture",
+		"3": "block/texture",
+		"5": "block/texture",
+		"7": "block/texture",
+		"particle": "block/texture"
+	},
+	"elements": [
+		{
+			"name": "GunHold1",
+			"from": [5, 2, 6],
+			"to": [7, 5, 9],
+			"faces": {
+				"north": {"uv": [0, 0, 2, 3], "texture": "#1", "tintindex": 0},
+				"east": {"uv": [0, 0, 3, 3], "texture": "#1"},
+				"south": {"uv": [0, 0, 2, 3], "texture": "#1"},
+				"west": {"uv": [0, 0, 3, 3], "texture": "#1"},
+				"up": {"uv": [0, 0, 2, 3], "texture": "#1"},
+				"down": {"uv": [0, 0, 2, 3], "texture": "#1"}
+			}
+		},
+		{
+			"name": "GunHold2",
+			"from": [4, 2, 6],
+			"to": [5, 3, 9],
+			"faces": {
+				"north": {"uv": [0, 0, 1, 1], "texture": "#7", "tintindex": 0},
+				"east": {"uv": [0, 0, 3, 1], "texture": "#7"},
+				"south": {"uv": [0, 0, 1, 1], "texture": "#5"},
+				"west": {"uv": [0, 0, 3, 1], "texture": "#7"},
+				"up": {"uv": [0, 0, 1, 3], "texture": "#7"},
+				"down": {"uv": [0, 0, 1, 3], "texture": "#7"}
+			}
+		},
+		{
+			"name": "GunPrecursor2",
+			"from": [7, 3, 6],
+			"to": [9, 4, 9],
+			"faces": {
+				"north": {"uv": [0, 0, 2, 1], "texture": "#3"},
+				"east": {"uv": [0, 0, 3, 1], "texture": "#3"},
+				"south": {"uv": [0, 0, 2, 1], "texture": "#3"},
+				"west": {"uv": [0, 0, 3, 1], "texture": "#3"},
+				"up": {"uv": [0, 0, 2, 3], "texture": "#3"},
+				"down": {"uv": [0, 0, 2, 3], "texture": "#3"}
+			}
+		},
+		{
+			"name": "GunPrecursor1",
+			"from": [7, 4, 6],
+			"to": [16, 5, 9],
+			"faces": {
+				"north": {"uv": [0, 0, 9, 1], "texture": "#3"},
+				"east": {"uv": [0, 0, 3, 1], "texture": "#3"},
+				"south": {"uv": [0, 0, 9, 1], "texture": "#3"},
+				"west": {"uv": [0, 0, 3, 1], "texture": "#3"},
+				"up": {"uv": [0, 0, 9, 3], "texture": "#3"},
+				"down": {"uv": [0, 0, 9, 3], "texture": "#3"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-54.74, 83, 145],
+			"translation": [0, 3.5, 5.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-54.7, 83, 145]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 81.75, 0],
+			"translation": [0, 9.5, -3.75]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-180, -41, 180],
+			"translation": [0, 8.75, 0]
+		}
+	},
+	"groups": [
+		{
+			"name": "GunHold",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1]
+		},
+		{
+			"name": "GunPrecursor",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [2, 3]
+		}
+	]
+}

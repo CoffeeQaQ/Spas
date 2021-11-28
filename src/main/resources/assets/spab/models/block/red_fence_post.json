@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "spab:blocks/red_planks",
+    "particle": "spab:blocks/red_planks"
+  }
+}

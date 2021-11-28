@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "spab:block/spab_recipestation_block"
+    }
+  }
+}
