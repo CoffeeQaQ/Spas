@@ -7,6 +7,12 @@ According to the GPL2.0 protocol Open Source
 
 How to give feedback and leave a message,transfer the lssues
 
+现已停更
+
+In order to stop more now
+
+
+
 
 
 
