@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "spas:blocks/white_log_top",
+    "up": "spas:blocks/white_log_top",
+    "north": "spas:blocks/white_log_side",
+    "east": "spas:blocks/white_log_side",
+    "south": "spas:blocks/white_log_side",
+    "west": "spas:blocks/white_log_side",
+    "particle": "spas:blocks/white_log_top"
+  }
+}

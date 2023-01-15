@@ -1,0 +1,30 @@
+{
+  "group": "spas",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:spectral_arrow"
+    },
+    "3": {
+      "item": "minecraft:arrow"
+    },
+    "4": {
+      "item": "minecraft:nether_star"
+    },
+    "5": {
+      "item": "minecraft:arrow"
+    },
+    "7": {
+      "item": "minecraft:arrow"
+    }
+  },
+  "result": {
+    "item": "spas:bullet",
+    "count": 3
+  }
+}

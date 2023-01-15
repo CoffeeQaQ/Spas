@@ -1,0 +1,36 @@
+{
+  "group": "spas",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "spas:lucky_stone"
+    },
+    "1": {
+      "item": "spas:lucky_stone"
+    },
+    "2": {
+      "item": "spas:lucky_stone"
+    },
+    "4": {
+      "item": "minecraft:nether_star"
+    },
+    "6": {
+      "item": "spas:lucky_stone"
+    },
+    "7": {
+      "item": "spas:lucky_stone"
+    },
+    "8": {
+      "item": "spas:lucky_stone"
+    }
+  },
+  "result": {
+    "item": "spas:lucky_block",
+    "count": 1
+  }
+}

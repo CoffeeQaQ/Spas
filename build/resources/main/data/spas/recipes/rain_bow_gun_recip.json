@@ -1,0 +1,24 @@
+{
+  "group": "spas",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:bow"
+    },
+    "1": {
+      "item": "spas:battery"
+    },
+    "2": {
+      "item": "minecraft:crossbow"
+    }
+  },
+  "result": {
+    "item": "spas:rain_bow_gun",
+    "count": 1
+  }
+}

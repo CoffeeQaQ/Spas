@@ -1,0 +1,27 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "electromagneticsword",
+    "customModelName": "Normal",
+    "name": "Electromagnetic Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Spas"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 12.0,
+    "attackSpeed": 100.0,
+    "enchantability": 2,
+    "damageVsEntity": 1000.0,
+    "usageCount": 100,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

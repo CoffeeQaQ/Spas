@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "spas:blocks/white_planks",
+    "particle": "spas:blocks/white_planks"
+  }
+}

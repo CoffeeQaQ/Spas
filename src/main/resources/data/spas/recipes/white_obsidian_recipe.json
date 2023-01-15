@@ -1,0 +1,19 @@
+{
+  "group": "spas",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:obsidian"
+    },
+    "1": {
+      "item": "minecraft:bone_meal"
+    }
+  },
+  "result": {
+    "item": "spas:white_obsidian",
+    "count": 1
+  }
+}

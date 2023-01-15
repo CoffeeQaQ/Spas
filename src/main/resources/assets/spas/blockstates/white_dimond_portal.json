@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "spas:block/white_dimond_portal_ew"
+    },
+    "axis=x": {
+      "model": "spas:block/white_dimond_portal_ns"
+    }
+  }
+}

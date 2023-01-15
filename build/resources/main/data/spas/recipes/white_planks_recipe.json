@@ -1,0 +1,13 @@
+{
+  "group": "spas",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:white_log"
+    }
+  ],
+  "result": {
+    "item": "spas:white_planks",
+    "count": 4
+  }
+}

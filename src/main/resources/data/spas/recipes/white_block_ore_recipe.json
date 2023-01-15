@@ -1,0 +1,13 @@
+{
+  "group": "spas",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "spas:white_block"
+    }
+  ],
+  "result": {
+    "item": "spas:white",
+    "count": 9
+  }
+}

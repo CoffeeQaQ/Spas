@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="spas"
+version="1.0.0"
+displayName="Spas"
+credits="https://space.bilibili.com/631431740(求关注，不然不让玩！）"
+displayURL="https://bilibili.com"
+authors="Coffee_ooQ"
+description='''
+Mod by Coffee
+'''
+
+[[dependencies.spas]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

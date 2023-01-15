@@ -1,0 +1,25 @@
+{
+  "_fv": 18,
+  "_type": "potion",
+  "definition": {
+    "name": "Real Man Potion",
+    "effectName": "Real Man Potion",
+    "icon": "realman.png",
+    "color": {
+      "value": -154,
+      "falpha": 0.0
+    },
+    "isInstant": true,
+    "isBad": false,
+    "isBenefitical": false,
+    "registerPotionType": true,
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": true,
+    "onStarted": {
+      "name": "RealManPotionDangYaoShuiXiaoGuoKaiShiYingYongShi"
+    },
+    "onExpired": {
+      "name": "RealManPotionYaoShuiDaoQiShi"
+    }
+  }
+}

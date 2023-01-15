@@ -1,0 +1,1011 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "RealManPotionDangYaoShuiXiaoGuoKaiShiYingYongShi",
+      "type": "procedure",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "real_man_potion_dang_yao_shui_xiao_guo_kai_shi_ying_yong_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "RealManPotionYaoShuiDaoQiShi",
+      "type": "procedure",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "real_man_potion_yao_shui_dao_qi_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "RealManPotion",
+      "type": "potion",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "real_man_potion"
+    },
+    {
+      "name": "LuckyBlock",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lucky_block",
+      "path": "~/Block"
+    },
+    {
+      "name": "LuckyPickaxe",
+      "type": "tool",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lucky_pickaxe",
+      "path": "~/Item"
+    },
+    {
+      "name": "LuckyBlockDangFangKuaiBeiWanJiaPoPiShi",
+      "type": "procedure",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lucky_block_dang_fang_kuai_bei_wan_jia_po_pi_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "WhiteWood",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_wood",
+      "path": "~/Block/Buliding"
+    },
+    {
+      "name": "WhiteLog",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_log",
+      "path": "~/Block/Buliding"
+    },
+    {
+      "name": "WhitePlanks",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_planks",
+      "path": "~/Block/Buliding"
+    },
+    {
+      "name": "WhiteLeaves",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_leaves",
+      "path": "~/Block/Buliding"
+    },
+    {
+      "name": "WhiteStairs",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_stairs",
+      "path": "~/Block/Buliding"
+    },
+    {
+      "name": "WhiteSlab",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_slab",
+      "path": "~/Block/Buliding"
+    },
+    {
+      "name": "WhiteFence",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_fence",
+      "path": "~/Block/Buliding"
+    },
+    {
+      "name": "WhiteFenceGate",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_fence_gate",
+      "path": "~/Block/Buliding"
+    },
+    {
+      "name": "WhiteItemsTag",
+      "type": "tag",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_items_tag",
+      "path": "~/Block/Buliding"
+    },
+    {
+      "name": "WhiteWoodRecipe",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_wood_recipe",
+      "path": "~/Block/Buliding"
+    },
+    {
+      "name": "WhitePlanksRecipe",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_planks_recipe",
+      "path": "~/Block/Buliding"
+    },
+    {
+      "name": "WhiteStairsRecipe",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_stairs_recipe",
+      "path": "~/Block/Buliding"
+    },
+    {
+      "name": "WhiteSlabRecipe",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_slab_recipe",
+      "path": "~/Block/Buliding"
+    },
+    {
+      "name": "WhiteFenceRecipe",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_fence_recipe",
+      "path": "~/Block/Buliding"
+    },
+    {
+      "name": "WhiteFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_fence_gate_recipe",
+      "path": "~/Block/Buliding"
+    },
+    {
+      "name": "WhiteStickRecipe",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_stick_recipe",
+      "path": "~/Block/Buliding"
+    },
+    {
+      "name": "WhiteBlockTag",
+      "type": "tag",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_block_tag",
+      "path": "~/Block/Buliding"
+    },
+    {
+      "name": "White",
+      "type": "item",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white",
+      "path": "~/Item/Aromr"
+    },
+    {
+      "name": "WhiteOre",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_ore",
+      "path": "~/Item/Aromr"
+    },
+    {
+      "name": "WhiteBlock",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_block",
+      "path": "~/Item/Aromr"
+    },
+    {
+      "name": "WhiteOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_ore_block_recipe",
+      "path": "~/Item/Aromr"
+    },
+    {
+      "name": "WhiteBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_block_ore_recipe",
+      "path": "~/Item/Aromr"
+    },
+    {
+      "name": "WhiteOreSmelting",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_ore_smelting",
+      "path": "~/Item/Aromr"
+    },
+    {
+      "name": "WhitePickaxe",
+      "type": "tool",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_pickaxe",
+      "path": "~/Item/Aromr"
+    },
+    {
+      "name": "WhiteAxe",
+      "type": "tool",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_axe",
+      "path": "~/Item/Aromr"
+    },
+    {
+      "name": "WhiteSword",
+      "type": "tool",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_sword",
+      "path": "~/Item/Aromr"
+    },
+    {
+      "name": "WhiteShovel",
+      "type": "tool",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_shovel",
+      "path": "~/Item/Aromr"
+    },
+    {
+      "name": "WhiteHoe",
+      "type": "tool",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_hoe",
+      "path": "~/Item/Aromr"
+    },
+    {
+      "name": "WhitePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_pickaxe_recipe",
+      "path": "~/Item/Aromr"
+    },
+    {
+      "name": "WhiteAxeRecipe",
+      "type": "recipe",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_axe_recipe",
+      "path": "~/Item/Aromr"
+    },
+    {
+      "name": "WhiteSwordRecipe",
+      "type": "recipe",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_sword_recipe",
+      "path": "~/Item/Aromr"
+    },
+    {
+      "name": "WhiteShovelRecipe",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_shovel_recipe",
+      "path": "~/Item/Aromr"
+    },
+    {
+      "name": "WhiteHoeRecipe",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_hoe_recipe",
+      "path": "~/Item/Aromr"
+    },
+    {
+      "name": "WhiteArmor",
+      "type": "armor",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Item/Aromr"
+    },
+    {
+      "name": "WhiteArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_armor_helmet_recipe",
+      "path": "~/Item/Aromr"
+    },
+    {
+      "name": "WhiteArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_armor_body_recipe",
+      "path": "~/Item/Aromr"
+    },
+    {
+      "name": "WhiteArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_armor_leggings_recipe",
+      "path": "~/Item/Aromr"
+    },
+    {
+      "name": "WhiteArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_armor_boots_recipe",
+      "path": "~/Item/Aromr"
+    },
+    {
+      "name": "WhiteBimoe",
+      "type": "biome",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_bimoe"
+    },
+    {
+      "name": "WhiteObsidian",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_obsidian",
+      "path": "~/Block"
+    },
+    {
+      "name": "WhiteDimond",
+      "type": "dimension",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_dimond",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "ErErShiTiSiWangShi",
+      "type": "procedure",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "er_er_shi_ti_si_wang_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ErEr",
+      "type": "mob",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "er_er"
+    },
+    {
+      "name": "SanSan",
+      "type": "mob",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "san_san"
+    },
+    {
+      "name": "SanSanShiTiSiWangShi",
+      "type": "procedure",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "san_san_shi_ti_si_wang_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Author",
+      "type": "mob",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "author"
+    },
+    {
+      "name": "Bullet",
+      "type": "item",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bullet",
+      "path": "~/Item"
+    },
+    {
+      "name": "RainBowGun",
+      "type": "gun",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rain_bow_gun",
+      "path": "~/Item"
+    },
+    {
+      "name": "ChargingaPile",
+      "type": "block",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "charginga_pile",
+      "path": "~/Block"
+    },
+    {
+      "name": "Battery",
+      "type": "item",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "battery",
+      "path": "~/Item"
+    },
+    {
+      "name": "ChargingPileGUIFrist",
+      "type": "procedure",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "charging_pile_gui_frist",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ChargingingPileGUISecond",
+      "type": "procedure",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "charginging_pile_gui_second",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ChargingPileGUI",
+      "type": "gui",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "charging_pile_gui"
+    },
+    {
+      "name": "ChargingaPileRecipe",
+      "type": "recipe",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "charginga_pile_recipe",
+      "path": "~/Block"
+    },
+    {
+      "name": "BatteryRecipe",
+      "type": "recipe",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "battery_recipe",
+      "path": "~/Item"
+    },
+    {
+      "name": "BulletRecipe",
+      "type": "recipe",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bullet_recipe",
+      "path": "~/Item"
+    },
+    {
+      "name": "RainBowGunRecip",
+      "type": "recipe",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rain_bow_gun_recip",
+      "path": "~/Item"
+    },
+    {
+      "name": "LuckyOre",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lucky_ore",
+      "path": "~/Block"
+    },
+    {
+      "name": "LuckyStone",
+      "type": "item",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lucky_stone",
+      "path": "~/Item"
+    },
+    {
+      "name": "LuckyPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lucky_pickaxe_recipe",
+      "path": "~/Item"
+    },
+    {
+      "name": "LuckyBlockRecip",
+      "type": "recipe",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lucky_block_recip",
+      "path": "~/Block"
+    },
+    {
+      "name": "WhiteObsidianRecipe",
+      "type": "recipe",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_obsidian_recipe",
+      "path": "~/Block"
+    },
+    {
+      "name": "WhiteDimondRecipe",
+      "type": "recipe",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_dimond_recipe"
+    },
+    {
+      "name": "XiaoBao",
+      "type": "mob",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "xiao_bao"
+    },
+    {
+      "name": "ElectronicBow",
+      "type": "gun",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "electronic_bow",
+      "path": "~/Item"
+    },
+    {
+      "name": "ElectronicBowRecipe",
+      "type": "recipe",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "electronic_bow_recipe",
+      "path": "~/Item"
+    },
+    {
+      "name": "ElectromagneticSword",
+      "type": "tool",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "electromagnetic_sword",
+      "path": "~/Item"
+    },
+    {
+      "name": "ElectromagneticSwordRecipe",
+      "type": "recipe",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "electromagnetic_sword_recipe",
+      "path": "~/Item"
+    },
+    {
+      "name": "Spas",
+      "type": "tab",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spas"
+    },
+    {
+      "name": "ElectromagneticPickaxe",
+      "type": "tool",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "electromagnetic_pickaxe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.spas.bullet": "Bullet",
+      "entity.spas.author": "Author",
+      "item.spas.electronic_bow": "Electronic Bow",
+      "block.spas.white_leaves": "White Leaves",
+      "item.spas.white_pickaxe": "White Pickaxe",
+      "item.spas.rain_bow_gun": "Rain Bow Gun",
+      "block.spas.white_log": "White Log",
+      "block.spas.white_planks": "White Planks",
+      "item.spas.white_armor_boots": "White Boots",
+      "item.spas.xiao_bao_spawn_egg": "Xiao Bao Spawn Egg",
+      "item.minecraft.splash_potion.effect.real_man_potion": "Splash Real Man Potion",
+      "entity.spas.san_san": "San San",
+      "item.spas.battery": "Battery",
+      "item.spas.white_armor_leggings": "White Leggings",
+      "item.spas.er_er_spawn_egg": "Er Er Spawn Egg",
+      "block.spas.white_fence": "White Fence",
+      "item.spas.white_hoe": "White Hoe",
+      "item.minecraft.lingering_potion.effect.real_man_potion": "Lingering Real Man Potion",
+      "block.spas.white_ore": "White Ore",
+      "item.spas.author_spawn_egg": "Author Spawn Egg",
+      "block.spas.lucky_ore": "Lucky Ore",
+      "block.spas.charginga_pile": "Charginga Pile",
+      "item.spas.lucky_pickaxe": "Lucky Pickaxe",
+      "block.spas.white_fence_gate": "White Fence Gate",
+      "item.minecraft.potion.effect.real_man_potion": "Real Man Potion",
+      "item.spas.white_armor_helmet": "White Helmet",
+      "block.spas.white_wood": "White Wood",
+      "item.spas.white_sword": "White Sword",
+      "item.spas.san_san_spawn_egg": "San San Spawn Egg",
+      "block.spas.white_slab": "White Slab",
+      "item.spas.electromagnetic_sword": "Electromagnetic Sword",
+      "item.minecraft.tipped_arrow.effect.real_man_potion": "Arrow of Real Man Potion",
+      "item.spas.white": "White",
+      "item.spas.electromagnetic_pickaxe": "Electromagnetic Pickaxe",
+      "item.spas.white_shovel": "White Shovel",
+      "block.spas.lucky_block": "Lucky Block",
+      "block.spas.white_stairs": "White Stairs",
+      "biome.spas.white_bimoe": "White Bimoe",
+      "itemGroup.tabspas": "Spas",
+      "entity.spas.xiao_bao": "Xiao Bao",
+      "item.spas.white_dimond": "White Dimond Portal Igniter",
+      "item.spas.white_axe": "White Axe",
+      "block.spas.white_obsidian": "White Obsidian",
+      "item.spas.lucky_stone": "Lucky Stone",
+      "item.spas.white_armor_chestplate": "White Chestplate",
+      "effect.real_man_potion": "Real Man Potion",
+      "block.spas.white_block": "Block of White",
+      "entity.spas.er_er": "Er Er"
+    },
+    "zh_cn": {
+      "item.spas.bullet": "子弹",
+      "entity.spas.author": "作者",
+      "item.spas.electronic_bow": "能量弓",
+      "block.spas.white_leaves": "白色树叶",
+      "item.spas.white_pickaxe": "白色镐",
+      "item.spas.rain_bow_gun": "彩虹枪",
+      "block.spas.white_planks": "白色木板",
+      "block.spas.white_log": "白色原木",
+      "item.spas.white_armor_boots": "白色鞋子",
+      "item.spas.xiao_bao_spawn_egg": "小包刷怪蛋",
+      "item.minecraft.splash_potion.effect.real_man_potion": "喷溅型针男人水",
+      "entity.spas.san_san": "33娘刷怪蛋",
+      "item.spas.battery": "电池",
+      "item.spas.white_armor_leggings": "白色护腿",
+      "item.spas.er_er_spawn_egg": "22娘刷怪蛋",
+      "block.spas.white_fence": "白色栅栏",
+      "item.spas.white_hoe": "白色锄",
+      "item.minecraft.lingering_potion.effect.real_man_potion": "滞留型针男人水",
+      "block.spas.white_ore": "白色矿石",
+      "item.spas.author_spawn_egg": "作者刷怪蛋",
+      "block.spas.lucky_ore": "幸运矿石",
+      "block.spas.charginga_pile": "充电桩",
+      "item.spas.lucky_pickaxe": "幸运镐",
+      "block.spas.white_fence_gate": "白色栅栏门",
+      "item.minecraft.potion.effect.real_man_potion": "针男人水",
+      "item.spas.white_armor_helmet": "白色头盔",
+      "block.spas.white_wood": "白色木头",
+      "item.spas.white_sword": "白色剑",
+      "block.spas.white_slab": "白色台阶",
+      "item.spas.san_san_spawn_egg": "33娘刷怪蛋",
+      "item.spas.electromagnetic_sword": "能量剑",
+      "item.minecraft.tipped_arrow.effect.real_man_potion": "针男人箭",
+      "item.spas.white": "白色石",
+      "item.spas.electromagnetic_pickaxe": "能量镐",
+      "item.spas.white_shovel": "白色铲子",
+      "block.spas.lucky_block": "幸运方块",
+      "block.spas.white_stairs": "白色楼梯",
+      "biome.spas.white_bimoe": "白色群系",
+      "itemGroup.tabspas": "Spas",
+      "entity.spas.xiao_bao": "小包",
+      "item.spas.white_dimond": "白色世界传送石",
+      "item.spas.white_axe": "白色斧头",
+      "block.spas.white_obsidian": "白耀石",
+      "item.spas.lucky_stone": "幸运石",
+      "item.spas.white_armor_chestplate": "白色胸甲",
+      "effect.real_man_potion": "针男人水",
+      "block.spas.white_block": "白色块",
+      "entity.spas.er_er": "22娘"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Block",
+        "children": [
+          {
+            "name": "Buliding",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Item",
+        "children": [
+          {
+            "name": "Aromr",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "spas",
+    "modName": "Spas",
+    "version": "1.0.0",
+    "description": "Mod by Coffee",
+    "author": "Coffee_ooQ",
+    "websiteURL": "https://bilibili.com",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "https://space.bilibili.com/631431740(求关注，不然不让玩！）",
+    "modElementsPackage": "net.mcreator.spas",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

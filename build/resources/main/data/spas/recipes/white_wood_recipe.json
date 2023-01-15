@@ -1,0 +1,26 @@
+{
+  "group": "spas",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "spas:white_log"
+    },
+    "1": {
+      "item": "spas:white_log"
+    },
+    "2": {
+      "item": "spas:white_log"
+    },
+    "3": {
+      "item": "spas:white_log"
+    }
+  },
+  "result": {
+    "item": "spas:white_wood",
+    "count": 3
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "spas:blocks/whiteblock",
+    "particle": "spas:blocks/whiteblock"
+  }
+}

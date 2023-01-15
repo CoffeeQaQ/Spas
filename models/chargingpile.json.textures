@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "charging_pile"
+      },
+      "name": "default"
+    }
+  }
+}

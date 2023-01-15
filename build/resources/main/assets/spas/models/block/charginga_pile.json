@@ -1,0 +1,8 @@
+{
+  "parent": "spas:custom/chargingpile",
+  "textures": {
+    "all": "spas:blocks/tesla",
+    "particle": "spas:blocks/tesla",
+    "0": "spas:blocks/charging_pile"
+  }
+}

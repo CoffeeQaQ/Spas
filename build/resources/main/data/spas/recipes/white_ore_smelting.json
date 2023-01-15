@@ -1,0 +1,12 @@
+{
+  "group": "spas",
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "spas:white_ore"
+  },
+  "result": {
+    "item": "spas:white"
+  }
+}

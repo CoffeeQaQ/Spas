@@ -1,0 +1,33 @@
+{
+  "group": "spas",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "spas:white_planks"
+    },
+    "3": {
+      "item": "spas:white_planks"
+    },
+    "4": {
+      "item": "spas:white_planks"
+    },
+    "6": {
+      "item": "spas:white_planks"
+    },
+    "7": {
+      "item": "spas:white_planks"
+    },
+    "8": {
+      "item": "spas:white_planks"
+    }
+  },
+  "result": {
+    "item": "spas:white_stairs",
+    "count": 4
+  }
+}

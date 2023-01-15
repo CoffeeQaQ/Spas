@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "spas:blocks/white_planks",
+    "top": "spas:blocks/white_planks",
+    "side": "spas:blocks/white_planks"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "spas:block/white_slab"
+    },
+    "type=top": {
+      "model": "spas:block/white_slab_top"
+    },
+    "type=double": {
+      "model": "spas:block/white_slab_full"
+    }
+  }
+}

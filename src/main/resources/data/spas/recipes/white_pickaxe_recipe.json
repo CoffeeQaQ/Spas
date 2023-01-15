@@ -1,0 +1,30 @@
+{
+  "group": "spas",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "spas:white"
+    },
+    "1": {
+      "item": "spas:white"
+    },
+    "2": {
+      "item": "spas:white"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "spas:white_pickaxe",
+    "count": 1
+  }
+}

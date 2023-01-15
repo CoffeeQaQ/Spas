@@ -1,0 +1,32 @@
+{
+  "group": "spas",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "spas:white_planks"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "spas:white_planks"
+    },
+    "3": {
+      "item": "spas:white_planks"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "spas:white_planks"
+    }
+  },
+  "result": {
+    "item": "spas:white_fence",
+    "count": 3
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "spas",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "spas:white"
+    },
+    "1": {
+      "item": "spas:white"
+    },
+    "2": {
+      "item": "spas:white"
+    },
+    "3": {
+      "item": "spas:white"
+    },
+    "4": {
+      "item": "spas:white"
+    },
+    "5": {
+      "item": "spas:white"
+    },
+    "6": {
+      "item": "spas:white"
+    },
+    "7": {
+      "item": "spas:white"
+    },
+    "8": {
+      "item": "spas:white"
+    }
+  },
+  "result": {
+    "item": "spas:white_block",
+    "count": 1
+  }
+}

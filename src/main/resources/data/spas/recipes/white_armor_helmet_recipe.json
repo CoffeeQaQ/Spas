@@ -1,0 +1,29 @@
+{
+  "group": "spas",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "spas:white"
+    },
+    "1": {
+      "item": "spas:white"
+    },
+    "2": {
+      "item": "spas:white"
+    },
+    "3": {
+      "item": "spas:white"
+    },
+    "5": {
+      "item": "spas:white"
+    }
+  },
+  "result": {
+    "item": "spas:white_armor_helmet",
+    "count": 1
+  }
+}
