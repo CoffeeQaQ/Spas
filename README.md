@@ -3,9 +3,8 @@
 
 This module has many imperfect places
 
-请见谅
+Please excuse me
 
-Please forgive me
 
 
 ## Note
