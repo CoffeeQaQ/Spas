@@ -11,9 +11,9 @@ Please excuse me
 
 ## Note
 
-English translation is from youdao https://fanyi.youdao.com/index.html#/
+English translation is from [youdao](https://fanyi.youdao.com/index.html#/]
 
-In mod English translation is from google translation https://translate.google.com
+In mod English translation is from [google translation](https://translate.google.com)
 
 Instructions:After the mod will use youdao 
 
